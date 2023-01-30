@@ -1,0 +1,11 @@
+{
+  "pageProps": {
+    "title": "About // Axa Dávila",
+    "description": "description.",
+    "tagline": "tag tag tag Music. Beats. Bit.",
+    "image": "/image-mus.jpg",
+    "primaryColor": "blue",
+    "secondaryColor": "pink"
+  },
+  "__N_SSG": true
+}

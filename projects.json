@@ -1,0 +1,10 @@
+{
+  "pageProps": {
+    "title": "Projects // Alexandra Dávila",
+    "tagline": "Passion. Work. Dedication.",
+    "image": "/image-mus.jpg",
+    "primaryColor": "red",
+    "secondaryColor": "green"
+  },
+  "__N_SSG": true
+}
